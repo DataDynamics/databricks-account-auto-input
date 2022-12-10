@@ -1,0 +1,14 @@
+{
+  "ext_name": {
+    "message": "databricks-account-auto-input",
+    "description": "확장 프로그램 이름"
+  },
+  "ext_desc": {
+    "message": "databricks auto input for account console ui",
+    "description": "확장 프로그램 설명"
+  },
+  "browser_action_title": {
+    "message": "설정",
+    "description": "popup 창 이름"
+  }
+}

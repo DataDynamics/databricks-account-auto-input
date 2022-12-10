@@ -1,0 +1,14 @@
+{
+  "ext_name": {
+    "message": "databricks-account-auto-input",
+    "description": "extension name"
+  },
+  "ext_desc": {
+    "message": "databricks auto input for account console ui",
+    "description": "extension description"
+  },
+  "browser_action_title": {
+    "message": "Configurations",
+    "description": "name of popup"
+  }
+}
